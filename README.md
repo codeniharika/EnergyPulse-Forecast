@@ -2,13 +2,21 @@
 Our goal in this project is to use the hourly power consumption data to predict the PJME in the future. This is done by developing a model that can be used to predict future values based on the past values of the time series.
 
 ---
+## INSTRUCTIONS
+1. Clone this repository to your local machine.  
+
+2. Download the dataset and place it inside a folder named **`dataset`**.  
+
+3. Ensure that the **`dataset`** folder is in the same directory as **`main.ipynb`**.  
+
+---
 
 **DATA**: **[The hourly energy consumption data](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)** comes from PJM's website and are in megawatts (MW). 
 
 
 ---
 
-![earth](https://github.com/mohamedyosef101/energy-time-series-forecasting/assets/118842452/e4fce3fe-174f-4e0c-b190-2f5602110ee7)
+![earth](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40cluelesscuriouscoders%2Fenergy-demand-forecasting-13e3f43dc4bb&psig=AOvVaw3V2vJStgU4Swc_Hie7I1oC&ust=1741619922283000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi0j_ql_YsDFQAAAAAdAAAAABAE)
 
 
 <div><br></div>
