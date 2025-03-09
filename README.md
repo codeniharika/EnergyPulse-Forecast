@@ -1,5 +1,5 @@
-# Energy Consumption - Time Series Forecasting
-Our goal in this project is to use the hourly power consumption data to predict the PJME in the future. This is done by developing a model that can be used to predict future values based on the past values of the time series.
+# EnergyPulse Forecast
+Our objective in this project is to forecast future PJME (PJM East) power consumption using historical hourly data. By developing a predictive model, we aim to analyze past consumption patterns and accurately project future energy demand.
 
 ---
 ## INSTRUCTIONS
