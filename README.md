@@ -16,7 +16,7 @@ Our goal in this project is to use the hourly power consumption data to predict 
 
 ---
 
-![earth](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpropmodo.com%2Fhow-energy-forecasting-saves-money-and-resources%2F&psig=AOvVaw3V2vJStgU4Swc_Hie7I1oC&ust=1741619922283000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi0j_ql_YsDFQAAAAAdAAAAABAL)
+![earth](https://www.ul.com/sites/default/files/styles/hero_boxed_width/public/2021-10/electricity-pylons-at-sunset_2400x1600-23.png?itok=36-0NNFC)
 
 
 <div><br></div>
